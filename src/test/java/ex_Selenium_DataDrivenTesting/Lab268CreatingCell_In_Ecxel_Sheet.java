@@ -16,7 +16,7 @@ public class Lab268CreatingCell_In_Ecxel_Sheet {
 		
 		Row row = sheet.createRow(1);
 		Cell cell = row.createCell(1);
-		cell.setCellValue("krsnaa");
+		cell.setCellValue("krsna");
 		
 		FileOutputStream outputStream = new FileOutputStream(new String("SELLSPECIFIC.xlsx"));
 		workbook.write(outputStream);

@@ -31,7 +31,7 @@ public class DDT_RealTimeScenario {
 		emailElement.sendKeys(email);
 		
 		WebElement passwordElement = driver.findElement(By.id("login-password"));
-		passwordElement.clear();
+		passwordElement.clear();	
 		passwordElement.sendKeys(password);
 		driver.findElement(By.id("js-login-btn")).click();
 		
@@ -54,7 +54,7 @@ public class DDT_RealTimeScenario {
 //	public Object[][] testData(){
 //		return new Object[][] {
 //			{"TD1", "24sfb2cb@asfv.coo", "Wingify@123", "Invalid"},
-//			{"TD2", "2455sfb2cb@asfv.coo", "Wingify@123", "Valid"}
+//			{"TD2", "ghugerahul972@.com", "Rahul123@", "Valid"}
 //		};
 //	}
 	

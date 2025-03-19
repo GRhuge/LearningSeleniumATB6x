@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="ex_Selenium_24Jul2024_Actions_Windows_DragDown_Class.Lab258_Actions_Scroll_PageDown">
+      <class name="ex_Selenium_DataDrivenTesting.DDT_RealTimeScenario">
         <methods>
-          <include name="testPositive"/>
-          <include name="openBrowser"/>
-          <include name="closeBrowser"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="testDataDriven"/>
         </methods>
-      </class> <!-- ex_Selenium_24Jul2024_Actions_Windows_DragDown_Class.Lab258_Actions_Scroll_PageDown -->
+      </class> <!-- ex_Selenium_DataDrivenTesting.DDT_RealTimeScenario -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
