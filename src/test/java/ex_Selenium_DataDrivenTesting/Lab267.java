@@ -30,7 +30,7 @@ public class Lab267 {
 					System.out.println(cell.getNumericCellValue());
 				}
 				if(cell.getCellType() == CellType.STRING) {
-					System.out.println(cell.getStringCellValue());
+					System.out.println(cell.getNumericCellValue());
 				}
 			}
 		}
