@@ -27,14 +27,14 @@ public class Lab244_Css_Selector_Ex {
 	@Test(groups="QA")
 	@Description("Test Case Description")
 	public void testVerifyFreeTrial() {
-		driver.get("https://www.ebay.com/b/Desktops-All-In-One-Computers/171957/bn_1643067");
+		driver.get("https://www.ebay.com");
 		System.out.println(driver.getTitle());
 		driver.manage().window().maximize();
 		
 		WebElement searchBox = driver.findElement(By.cssSelector("input[id='gh-ac']"));
 		searchBox.sendKeys("macmini");
 		
-		WebElement searchBoxButton = driver.findElement(By.cssSelector("input[value='Search']"));
+		WebElement searchBoxButton = driver.findElement(By.cssSelector("input#gh-btn"));
 		searchBoxButton.click();
 		
 		try {

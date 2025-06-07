@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="ex_Selenium_DataDrivenTesting.DDT_RealTimeScenario">
+      <class name="ex_Selenium_18Jul2024_Css_Selector.Lab244_Css_Selector_Ex">
         <methods>
-          <include name="tearDown"/>
-          <include name="setUp"/>
-          <include name="testDataDriven"/>
+          <include name="closeBrowser"/>
+          <include name="openBrowser"/>
+          <include name="testVerifyFreeTrial"/>
         </methods>
-      </class> <!-- ex_Selenium_DataDrivenTesting.DDT_RealTimeScenario -->
+      </class> <!-- ex_Selenium_18Jul2024_Css_Selector.Lab244_Css_Selector_Ex -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
