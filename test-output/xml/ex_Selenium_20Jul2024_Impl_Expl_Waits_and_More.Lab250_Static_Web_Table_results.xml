@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Default test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.048">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testPositive"
+                time="2.048"
+                classname="ex_Selenium_20Jul2024_Impl_Expl_Waits_and_More.Lab250_Static_Web_Table">
+            </testcase>
+</testsuite>
