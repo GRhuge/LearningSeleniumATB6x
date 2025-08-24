@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Default test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="81.061">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testVerifyFreeTrail"
+                time="81.061"
+                classname="ex_selenium_13Jul2024_Xpath_Ex.Lab242_VWOLogin2_Trail_Xpath_Eg">
+            </testcase>
+</testsuite>
