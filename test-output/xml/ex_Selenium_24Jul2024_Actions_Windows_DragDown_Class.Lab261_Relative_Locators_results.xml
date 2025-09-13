@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Default test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.808">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testPositiveWindowsOptions"
+                time="0.808"
+                classname="ex_Selenium_24Jul2024_Actions_Windows_DragDown_Class.Lab261_Relative_Locators">
+            </testcase>
+</testsuite>

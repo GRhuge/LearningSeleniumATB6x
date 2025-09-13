@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="ex_Selenium_18Jul2024_Css_Selector.Lab244_Css_Selector_Ex">
+      <class name="ex_Selenium_23Jul2024.Lab253_SVG_Element_2">
         <methods>
           <include name="closeBrowser"/>
+          <include name="test_LabSVG"/>
           <include name="openBrowser"/>
-          <include name="testVerifyFreeTrial"/>
         </methods>
-      </class> <!-- ex_Selenium_18Jul2024_Css_Selector.Lab244_Css_Selector_Ex -->
+      </class> <!-- ex_Selenium_23Jul2024.Lab253_SVG_Element_2 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

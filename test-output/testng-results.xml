@@ -2,16 +2,27 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-07-10T15:51:51 IST" name="Default suite" finished-at="2025-07-10T15:53:13 IST" duration-ms="81952">
+  <suite started-at="2025-09-13T16:29:27 IST" name="Default suite" finished-at="2025-09-13T16:29:37 IST" duration-ms="10397">
     <groups>
+      <group name="QA">
+        <method signature="Lab263_IFrame.testPositiveIFrame()[pri:0, instance:ex_Selenium_24Jul2024_Actions_Windows_DragDown_Class.Lab263_IFrame@79defdc]" name="testPositiveIFrame" class="ex_Selenium_24Jul2024_Actions_Windows_DragDown_Class.Lab263_IFrame"/>
+      </group> <!-- QA -->
     </groups>
-    <test started-at="2025-07-10T15:51:51 IST" name="Default test" finished-at="2025-07-10T15:53:13 IST" duration-ms="81952">
-      <class name="ex_selenium_13Jul2024_Xpath_Ex.Lab242_VWOLogin2_Trail_Xpath_Eg">
-        <test-method signature="testVerifyFreeTrail()[pri:0, instance:ex_selenium_13Jul2024_Xpath_Ex.Lab242_VWOLogin2_Trail_Xpath_Eg@2d29b4ee]" started-at="2025-07-10T15:51:51 IST" name="testVerifyFreeTrail" finished-at="2025-07-10T15:53:12 IST" duration-ms="81061" status="PASS">
+    <test started-at="2025-09-13T16:29:27 IST" name="Default test" finished-at="2025-09-13T16:29:37 IST" duration-ms="10397">
+      <class name="ex_Selenium_24Jul2024_Actions_Windows_DragDown_Class.Lab263_IFrame">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:ex_Selenium_24Jul2024_Actions_Windows_DragDown_Class.Lab263_IFrame@79defdc]" started-at="2025-09-13T16:29:27 IST" name="openBrowser" finished-at="2025-09-13T16:29:29 IST" duration-ms="2878" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testVerifyFreeTrail -->
-      </class> <!-- ex_selenium_13Jul2024_Xpath_Ex.Lab242_VWOLogin2_Trail_Xpath_Eg -->
+        </test-method> <!-- openBrowser -->
+        <test-method signature="testPositiveIFrame()[pri:0, instance:ex_Selenium_24Jul2024_Actions_Windows_DragDown_Class.Lab263_IFrame@79defdc]" started-at="2025-09-13T16:29:30 IST" name="testPositiveIFrame" finished-at="2025-09-13T16:29:37 IST" duration-ms="7035" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPositiveIFrame -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:ex_Selenium_24Jul2024_Actions_Windows_DragDown_Class.Lab263_IFrame@79defdc]" started-at="2025-09-13T16:29:37 IST" name="closeBrowser" finished-at="2025-09-13T16:29:37 IST" duration-ms="315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- ex_Selenium_24Jul2024_Actions_Windows_DragDown_Class.Lab263_IFrame -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Default test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="7.035">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testPositiveIFrame"
+                time="7.035"
+                classname="ex_Selenium_24Jul2024_Actions_Windows_DragDown_Class.Lab263_IFrame">
+            </testcase>
+</testsuite>

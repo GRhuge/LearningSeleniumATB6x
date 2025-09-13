@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Default test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.541">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testPositive"
+                time="1.541"
+                classname="ex_Selenium_23Jul2024.Lab251_Dynamic_WebTable">
+            </testcase>
+</testsuite>
