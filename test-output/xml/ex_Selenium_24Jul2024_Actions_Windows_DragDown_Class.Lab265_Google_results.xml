@@ -4,14 +4,14 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="12.332">
+           time="13.130">
     <properties></properties>
 
 
 
             <testcase
-                name="testPositiveIFrame"
-                time="12.332"
-                classname="ex_Selenium_24Jul2024_Actions_Windows_DragDown_Class.Lab263_IFrame">
+                name="google"
+                time="13.130"
+                classname="ex_Selenium_24Jul2024_Actions_Windows_DragDown_Class.Lab265_Google">
             </testcase>
 </testsuite>
